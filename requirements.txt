@@ -2,7 +2,7 @@ beautifulsoup4==4.12.3
 email-validator==2.2.0
 flask==3.0.3
 flask-sqlalchemy==3.1.1
-fpdf==2.5.7
+fpdf==1.7.2
 fpdf2==2.8.1
 gunicorn==23.0.0
 openpyxl==3.1.5
